@@ -1,0 +1,11 @@
+# orden de los programas..
+1.- inicio.cpp
+2.- if-else.cpp
+3.- switch.cpp
+4.- for-while.cpp
+5.- do-while.cpp
+6.- array.cpp
+7-  punteros.cpp
+8.- puntero++.cpp
+9.- figuras
+10.- 
