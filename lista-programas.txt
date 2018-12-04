@@ -8,4 +8,14 @@
 7-  punteros.cpp
 8.- puntero++.cpp
 9.- figuras
-10.- 
+10.- struct.cpp
+11.- paso-por-referencia.cpp
+12.- return-referencia.cpp
+13.- clases
+14.- funcion-amiga.cpp
+15.- paso-obj-por-valor.cpp
+16.- constructor-copia.cpp
+17.- sobrecarga-operadores-aritmeticos.cpp
+18.- sobrecarga-uniaros.cpp
+19.- sobrecarga-asignacion.cpp
+20.-
