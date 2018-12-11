@@ -18,4 +18,12 @@
 17.- sobrecarga-operadores-aritmeticos.cpp
 18.- sobrecarga-uniaros.cpp
 19.- sobrecarga-asignacion.cpp
-20.-
+20.- sobrecarga-asignacion2.cpp
+21.- herencia (incluye puntero a clases)
+22.- funcion-virtual.cpp
+23.- clase-abstracta.cpp
+24.- plantillas.cpp
+25.- plantilla-funcion.cpp
+26.- excepciones.cpp
+27.- MiExcepcion.cpp
+28.- 
